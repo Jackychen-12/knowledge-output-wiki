@@ -67,7 +67,7 @@ The split earns its complexity when the *same* knowledge has to serve *recurring
 ### Option A — symlink into your skills directory
 
 ```bash
-git clone https://github.com/keyuchen-del/knowledge-output-wiki ~/code/knowledge-output-wiki
+git clone https://github.com/Jackychen-12/knowledge-output-wiki ~/code/knowledge-output-wiki
 ln -s ~/code/knowledge-output-wiki ~/.claude/skills/knowledge-output-wiki
 ```
 
@@ -76,7 +76,7 @@ Then in any Claude Code conversation, the skill triggers when you ask about pers
 ### Option B — read the skill manually
 
 ```bash
-git clone https://github.com/keyuchen-del/knowledge-output-wiki
+git clone https://github.com/Jackychen-12/knowledge-output-wiki
 cat knowledge-output-wiki/SKILL.md
 ```
 

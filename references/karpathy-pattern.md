@@ -102,7 +102,7 @@ If neither set fully fits, default to Karpathy's original. Add the second layer 
 This wiki uses the dual-layer extension of Andrej Karpathy's LLM Wiki pattern
 (2026-04-03). The knowledge layer follows Karpathy's original; the output layer
 and packaging phase are extensions described in:
-https://github.com/keyuchen-del/knowledge-output-wiki
+https://github.com/Jackychen-12/knowledge-output-wiki
 ```
 
 ---
